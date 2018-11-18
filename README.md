@@ -1,4 +1,4 @@
-# Artificial-Algae-Algorithm
+# Artificial Algae Algorithm
 
 Artificial algae algorithm (AAA) is a novel bio-inspired meta-heuristic optimization algorithm proposed by Sait AliUymaz 
 The algorithm is based on an evolutionary process, adaptation process and the movement of micro-algae.
@@ -6,4 +6,4 @@ Artificial algae correspond to each solution in the problem space by idealizing 
 
 for more details please see https://iscas2016.selcuk.edu.tr/
 
-Artificial Algae Algorithm Python code
+# Artificial Algae Algorithm Python code is avialable above
